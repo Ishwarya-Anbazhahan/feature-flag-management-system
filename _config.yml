@@ -1,0 +1,8 @@
+theme: jekyll-theme-primer
+
+exclude:
+  - backend/node_modules
+  - node_modules
+  - vendor/bundle
+  - .git
+  - .gitignore
